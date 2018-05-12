@@ -1,0 +1,30 @@
+_repo: Bell-s-Cathedrals--The-Cathedral-Church-of-WellsA-Description-of-Its-Fabric-and-a-Brief-Histo__32280
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dearmer, Percy
+    birthdate: 1867
+    deathdate: 1936
+    gutenberg_agent_id: '35775'
+    url: http://www.gutenberg.org/2009/agents/35775
+    wikipedia: http://en.wikipedia.org/wiki/Percy_Dearmer
+description: ''
+gutenberg_issued: '2010-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32280'
+  lccn: 03012864
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wells Cathedral'
+- !lcc 'NA'
+title: 'Bell''s Cathedrals: The Cathedral Church of Wells
+
+  A Description of Its Fabric and a Brief History of the Episcopal See'
+url: http://www.gutenberg.org/ebooks/32280
