@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35775
     wikipedia: http://en.wikipedia.org/wiki/Percy_Dearmer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32280#Bell-s-Cathedrals--The-Cathedral-Church-of-WellsA-Description-of-Its-Fabric-and-a-Brief-Histo_
 gutenberg_issued: '2010-05-07'
 gutenberg_type: Text
 identifiers:
